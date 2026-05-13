@@ -1,7 +1,7 @@
 # All-In-One-Runtime-Installer-V2
 # Usage
 
-1. **Download** the repository or ZIP file from [here]([https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2](https://github.com/Saideens-Libraries/All-In-One-Runtime-Installer-V2/archive/refs/heads/main.zip)).
+1. **Download** the repository or ZIP file from [here]([https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2](https://github.com/Saideens-Libraries/All-In-One-Runtime-Installer-V2/archive/refs/heads/main.zip).
 
 2. **Extract** the package to your desired location.
 
