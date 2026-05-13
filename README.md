@@ -3,7 +3,7 @@
 
 ## Usage
 
-**1. Download the latest release package from [here](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2/releases).**
+**1. Download the .Net installers from [here](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2/releases).**
  
 **2. Extract the package to your desired location.**
 
