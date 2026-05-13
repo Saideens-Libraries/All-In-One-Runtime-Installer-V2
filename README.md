@@ -12,7 +12,7 @@
 
 5. **Follow the on-screen instructions** to complete the installation.
 
-6. **Download the .NET installers** from the [releases page](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2/releases).  
+6. **Download the .NET installers** from the [releases page](https://github.com/Saideens-Libraries/All-In-One-Runtime-Installer-V2/releases/download/v2/default.Net-Installers.zip).  
 > **Note:** Only the release contains the .NET installer. The repository does **not** include it, as the file is too large.
 ---
 
