@@ -1,19 +1,19 @@
 # All-In-One-Runtime-Installer-V2
+# Usage
 
+1. **Download** the repository or ZIP file from [here](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2).
 
-## Usage
+2. **Extract** the package to your desired location.
 
-**1. Download the .Net installers from [here](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2/releases).**
- 
-**2. Extract the package to your desired location.**
+3. **Run** `All in One Runtime Installer (AutoAdmin).bat` **as administrator.**  
+   - This version automatically requests administrator privileges using UAC and VBScript.
 
-**3. Run** `All in One Runtime Installer (AutoAdmin).bat` **as administrator.**
-- This version automatically requests administrator privileges using UAC and VBScript.
+4. **If automatic elevation does not work**, run `All in One Runtime Installer (ManualAdmin).bat` **manually as administrator.**
 
-**4. If automatic elevation does not work, run** `All in One Runtime Installer (ManualAdmin).bat` **as administrator manually.**
+5. **Follow the on-screen instructions** to complete the installation.
 
-**5. Follow the on-screen instructions to complete the installation.**
-
+6. **Download the .NET installers** from the [releases page](https://github.com/Saideens-Libraries/All-in-One-Runtime-Installer-V2/releases).  
+> **Note:** Only the release contains the .NET installer. The repository does **not** include it, as the file is too large.
 ---
 
 An all-in-one Windows runtime installer for automatically installing:
